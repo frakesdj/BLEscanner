@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLEscanner</string>
+    <string name="ble_not_supported">NOT SUPPORTED</string>
+    <string name="button_text">Scan</string>
+</resources>
